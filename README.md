@@ -1,1 +1,3 @@
-# AI-Masters-projects-
+# AI-Masters-projects
+
+Adaptive systems 
